@@ -1,2 +1,2 @@
 # javascript-dio
-Curso de JavaScript Digital Innovation One
+Digital Innovation One JavaScript course
